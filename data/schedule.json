@@ -1,9 +1,9 @@
 {
-  "updatedOn": "2026-03-13T14:30:04Z",
+  "updatedOn": "2026-03-13T15:20:05Z",
   "schedules": {
     "2026-03-13": {
       "1.1": {
-        "createdOn": "2026-03-13T16:29:18Z",
+        "createdOn": "2026-03-13T17:19:50Z",
         "outageMeta": {
           "periods": [],
           "total_duration": 0
@@ -60,16 +60,16 @@
         }
       },
       "1.2": {
-        "createdOn": "2026-03-13T16:29:18Z",
+        "createdOn": "2026-03-13T17:19:50Z",
         "outageMeta": {
           "periods": [
             {
-              "start": "18:00",
+              "start": "19:00",
               "end": "19:30",
-              "duration": 5400
+              "duration": 1800
             }
           ],
-          "total_duration": 5400
+          "total_duration": 1800
         },
         "data": {
           "00:00": "ON",
@@ -107,9 +107,9 @@
           "16:00": "ON",
           "16:30": "ON",
           "17:00": "ON",
-          "17:30": "GRAY_ZONE",
-          "18:00": "OFF",
-          "18:30": "OFF",
+          "17:30": "ON",
+          "18:00": "ON",
+          "18:30": "GRAY_ZONE",
           "19:00": "OFF",
           "19:30": "GRAY_ZONE",
           "20:00": "ON",
@@ -123,16 +123,16 @@
         }
       },
       "2.1": {
-        "createdOn": "2026-03-13T16:29:18Z",
+        "createdOn": "2026-03-13T17:19:50Z",
         "outageMeta": {
           "periods": [
             {
-              "start": "18:00",
+              "start": "19:00",
               "end": "19:30",
-              "duration": 5400
+              "duration": 1800
             }
           ],
-          "total_duration": 5400
+          "total_duration": 1800
         },
         "data": {
           "00:00": "ON",
@@ -170,9 +170,9 @@
           "16:00": "ON",
           "16:30": "ON",
           "17:00": "ON",
-          "17:30": "GRAY_ZONE",
-          "18:00": "OFF",
-          "18:30": "OFF",
+          "17:30": "ON",
+          "18:00": "ON",
+          "18:30": "GRAY_ZONE",
           "19:00": "OFF",
           "19:30": "GRAY_ZONE",
           "20:00": "ON",
@@ -186,7 +186,7 @@
         }
       },
       "2.2": {
-        "createdOn": "2026-03-13T16:29:18Z",
+        "createdOn": "2026-03-13T17:19:50Z",
         "outageMeta": {
           "periods": [
             {
@@ -249,7 +249,7 @@
         }
       },
       "3.1": {
-        "createdOn": "2026-03-13T16:29:18Z",
+        "createdOn": "2026-03-13T17:19:50Z",
         "outageMeta": {
           "periods": [
             {
@@ -312,7 +312,7 @@
         }
       },
       "3.2": {
-        "createdOn": "2026-03-13T16:29:18Z",
+        "createdOn": "2026-03-13T17:19:50Z",
         "outageMeta": {
           "periods": [],
           "total_duration": 0
@@ -369,7 +369,7 @@
         }
       },
       "4.1": {
-        "createdOn": "2026-03-13T16:29:18Z",
+        "createdOn": "2026-03-13T17:19:50Z",
         "outageMeta": {
           "periods": [],
           "total_duration": 0
@@ -426,7 +426,7 @@
         }
       },
       "4.2": {
-        "createdOn": "2026-03-13T16:29:18Z",
+        "createdOn": "2026-03-13T17:19:50Z",
         "outageMeta": {
           "periods": [],
           "total_duration": 0
@@ -483,7 +483,7 @@
         }
       },
       "5.1": {
-        "createdOn": "2026-03-13T16:29:18Z",
+        "createdOn": "2026-03-13T17:19:50Z",
         "outageMeta": {
           "periods": [],
           "total_duration": 0
@@ -540,7 +540,7 @@
         }
       },
       "5.2": {
-        "createdOn": "2026-03-13T16:29:18Z",
+        "createdOn": "2026-03-13T17:19:50Z",
         "outageMeta": {
           "periods": [],
           "total_duration": 0
@@ -597,7 +597,7 @@
         }
       },
       "6.1": {
-        "createdOn": "2026-03-13T16:29:18Z",
+        "createdOn": "2026-03-13T17:19:50Z",
         "outageMeta": {
           "periods": [],
           "total_duration": 0
@@ -654,7 +654,7 @@
         }
       },
       "6.2": {
-        "createdOn": "2026-03-13T16:29:18Z",
+        "createdOn": "2026-03-13T17:19:50Z",
         "outageMeta": {
           "periods": [],
           "total_duration": 0
