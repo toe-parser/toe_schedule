@@ -1,5 +1,5 @@
 {
-  "updatedOn": "2026-03-19T22:00:06Z",
+  "updatedOn": "2026-03-20T02:35:05Z",
   "schedules": {
     "2026-03-20": {
       "1.1": {
@@ -66,10 +66,9 @@
         }
       },
       "1.2": {
-        "createdOn": "2026-03-19T20:07:37Z",
+        "createdOn": "2026-03-20",
         "outageMeta": {
-          "periods": [],
-          "total_duration": 0
+          "manually_generated": true
         },
         "data": {
           "00:00": "ON",
@@ -369,10 +368,9 @@
         }
       },
       "4.1": {
-        "createdOn": "2026-03-19T20:07:37Z",
+        "createdOn": "2026-03-20",
         "outageMeta": {
-          "periods": [],
-          "total_duration": 0
+          "manually_generated": true
         },
         "data": {
           "00:00": "ON",
