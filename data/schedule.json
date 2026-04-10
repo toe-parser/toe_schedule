@@ -1,5 +1,5 @@
 {
-  "updatedOn": "2026-04-10T21:25:22Z",
+  "updatedOn": "2026-04-10T21:30:05Z",
   "schedules": {
     "2026-04-11": {
       "1.1": {
@@ -573,9 +573,10 @@
         }
       },
       "6.1": {
-        "createdOn": "2026-04-11",
+        "createdOn": "2026-04-10T21:20:36Z",
         "outageMeta": {
-          "manually_generated": true
+          "periods": [],
+          "total_duration": 0
         },
         "data": {
           "00:00": "ON",
