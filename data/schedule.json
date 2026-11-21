@@ -1,9 +1,9 @@
 {
-  "updatedOn": "2026-11-21T16:55:04Z",
+  "updatedOn": "2026-11-21T20:10:06Z",
   "schedules": {
     "2026-11-21": {
       "1.1": {
-        "createdOn": "2026-11-21T18:52:19Z",
+        "createdOn": "2026-11-21T22:05:17Z",
         "outageMeta": {
           "periods": [
             {
@@ -66,7 +66,7 @@
         }
       },
       "1.2": {
-        "createdOn": "2026-11-21T18:52:19Z",
+        "createdOn": "2026-11-21T22:05:17Z",
         "outageMeta": {
           "periods": [
             {
@@ -76,11 +76,11 @@
             },
             {
               "start": "21:30",
-              "end": "23:30",
-              "duration": 7200
+              "end": "22:00",
+              "duration": 1800
             }
           ],
-          "total_duration": 9000
+          "total_duration": 3600
         },
         "data": {
           "00:00": "ON",
@@ -127,14 +127,14 @@
           "20:30": "ON",
           "21:00": "GRAY_ZONE",
           "21:30": "OFF",
-          "22:00": "OFF",
-          "22:30": "OFF",
-          "23:00": "OFF",
-          "23:30": "OFF"
+          "22:00": "GRAY_ZONE",
+          "22:30": "ON",
+          "23:00": "ON",
+          "23:30": "ON"
         }
       },
       "2.1": {
-        "createdOn": "2026-11-21T18:52:19Z",
+        "createdOn": "2026-11-21T22:05:17Z",
         "outageMeta": {
           "periods": [
             {
@@ -253,16 +253,10 @@
         }
       },
       "3.1": {
-        "createdOn": "2026-11-21T18:52:19Z",
+        "createdOn": "2026-11-21T22:05:17Z",
         "outageMeta": {
-          "periods": [
-            {
-              "start": "21:30",
-              "end": "23:30",
-              "duration": 7200
-            }
-          ],
-          "total_duration": 7200
+          "periods": [],
+          "total_duration": 0
         },
         "data": {
           "00:00": "ON",
@@ -307,12 +301,12 @@
           "19:30": "ON",
           "20:00": "ON",
           "20:30": "ON",
-          "21:00": "GRAY_ZONE",
-          "21:30": "OFF",
-          "22:00": "OFF",
-          "22:30": "OFF",
-          "23:00": "OFF",
-          "23:30": "OFF"
+          "21:00": "ON",
+          "21:30": "ON",
+          "22:00": "ON",
+          "22:30": "ON",
+          "23:00": "ON",
+          "23:30": "ON"
         }
       },
       "3.2": {
@@ -372,7 +366,7 @@
         }
       },
       "4.1": {
-        "createdOn": "2026-11-21T18:52:19Z",
+        "createdOn": "2026-11-21T22:05:17Z",
         "outageMeta": {
           "periods": [
             {
@@ -435,7 +429,7 @@
         }
       },
       "4.2": {
-        "createdOn": "2026-11-21T18:52:19Z",
+        "createdOn": "2026-11-21T22:05:17Z",
         "outageMeta": {
           "periods": [
             {
@@ -498,7 +492,7 @@
         }
       },
       "5.1": {
-        "createdOn": "2026-11-21T18:52:19Z",
+        "createdOn": "2026-11-21T22:05:17Z",
         "outageMeta": {
           "periods": [],
           "total_duration": 0
@@ -611,7 +605,7 @@
         }
       },
       "6.1": {
-        "createdOn": "2026-11-21T18:52:19Z",
+        "createdOn": "2026-11-21T22:05:17Z",
         "outageMeta": {
           "periods": [
             {
@@ -621,11 +615,11 @@
             },
             {
               "start": "21:30",
-              "end": "23:30",
-              "duration": 7200
+              "end": "22:00",
+              "duration": 1800
             }
           ],
-          "total_duration": 9000
+          "total_duration": 3600
         },
         "data": {
           "00:00": "OFF",
@@ -672,14 +666,14 @@
           "20:30": "ON",
           "21:00": "GRAY_ZONE",
           "21:30": "OFF",
-          "22:00": "OFF",
-          "22:30": "OFF",
-          "23:00": "OFF",
-          "23:30": "OFF"
+          "22:00": "GRAY_ZONE",
+          "22:30": "ON",
+          "23:00": "ON",
+          "23:30": "ON"
         }
       },
       "6.2": {
-        "createdOn": "2026-11-21T18:52:19Z",
+        "createdOn": "2026-11-21T22:05:17Z",
         "outageMeta": {
           "periods": [
             {
