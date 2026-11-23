@@ -1,9 +1,9 @@
 {
-  "updatedOn": "2026-11-23T09:55:04Z",
+  "updatedOn": "2026-11-23T10:10:04Z",
   "schedules": {
     "2026-11-23": {
       "1.1": {
-        "createdOn": "2026-11-23T11:52:19Z",
+        "createdOn": "2026-11-23T12:09:18Z",
         "outageMeta": {
           "periods": [
             {
@@ -71,7 +71,7 @@
         }
       },
       "1.2": {
-        "createdOn": "2026-11-23T11:52:19Z",
+        "createdOn": "2026-11-23T12:09:18Z",
         "outageMeta": {
           "periods": [
             {
@@ -139,7 +139,7 @@
         }
       },
       "2.1": {
-        "createdOn": "2026-11-23T11:52:19Z",
+        "createdOn": "2026-11-23T12:09:18Z",
         "outageMeta": {
           "periods": [
             {
@@ -263,7 +263,7 @@
         }
       },
       "3.1": {
-        "createdOn": "2026-11-23T11:52:19Z",
+        "createdOn": "2026-11-23T12:09:18Z",
         "outageMeta": {
           "periods": [
             {
@@ -387,13 +387,13 @@
         }
       },
       "4.1": {
-        "createdOn": "2026-11-23T11:52:19Z",
+        "createdOn": "2026-11-23T12:09:18Z",
         "outageMeta": {
           "periods": [
             {
               "start": "10:00",
-              "end": "13:00",
-              "duration": 10800
+              "end": "12:30",
+              "duration": 9000
             },
             {
               "start": "16:30",
@@ -401,7 +401,7 @@
               "duration": 16200
             }
           ],
-          "total_duration": 27000
+          "total_duration": 25200
         },
         "data": {
           "00:00": "ON",
@@ -429,8 +429,8 @@
           "11:00": "OFF",
           "11:30": "OFF",
           "12:00": "OFF",
-          "12:30": "OFF",
-          "13:00": "GRAY_ZONE",
+          "12:30": "GRAY_ZONE",
+          "13:00": "ON",
           "13:30": "ON",
           "14:00": "ON",
           "14:30": "ON",
@@ -455,7 +455,7 @@
         }
       },
       "4.2": {
-        "createdOn": "2026-11-23T11:52:19Z",
+        "createdOn": "2026-11-23T12:09:18Z",
         "outageMeta": {
           "periods": [
             {
@@ -523,7 +523,7 @@
         }
       },
       "5.1": {
-        "createdOn": "2026-11-23T11:52:19Z",
+        "createdOn": "2026-11-23T12:09:18Z",
         "outageMeta": {
           "periods": [
             {
@@ -647,13 +647,13 @@
         }
       },
       "6.1": {
-        "createdOn": "2026-11-23T11:52:19Z",
+        "createdOn": "2026-11-23T12:09:18Z",
         "outageMeta": {
           "periods": [
             {
               "start": "10:00",
-              "end": "14:00",
-              "duration": 14400
+              "end": "13:30",
+              "duration": 12600
             },
             {
               "start": "18:00",
@@ -661,7 +661,7 @@
               "duration": 14400
             }
           ],
-          "total_duration": 28800
+          "total_duration": 27000
         },
         "data": {
           "00:00": "ON",
@@ -691,8 +691,8 @@
           "12:00": "OFF",
           "12:30": "OFF",
           "13:00": "OFF",
-          "13:30": "OFF",
-          "14:00": "GRAY_ZONE",
+          "13:30": "GRAY_ZONE",
+          "14:00": "ON",
           "14:30": "ON",
           "15:00": "ON",
           "15:30": "ON",
@@ -715,7 +715,7 @@
         }
       },
       "6.2": {
-        "createdOn": "2026-11-23T11:52:19Z",
+        "createdOn": "2026-11-23T12:09:18Z",
         "outageMeta": {
           "periods": [
             {
